@@ -17,12 +17,12 @@ Una sencilla aplicación de lista de tareas (To-Do List) desarrollada con HTML, 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone (https://github.com/Nathaly-Daza/ToDoList.git)
    ```
 
 2. **Navegar al directorio del proyecto:**
    ```bash
-   cd tu-repositorio
+   cd repositorio
    ```
 
 3. **Abrir el archivo `index.html` en tu navegador:**
