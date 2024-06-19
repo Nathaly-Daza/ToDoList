@@ -2,7 +2,7 @@
 
 Una sencilla aplicación de lista de tareas (To-Do List) desarrollada con HTML, CSS y JavaScript. Permite agregar, marcar como completadas y eliminar tareas, además de guardar el estado de la lista en el almacenamiento local del navegador.
 
-![image](https://github.com/Nathaly-Daza/ToDoList/assets/113744119/eae35541-19b8-44be-aa72-91cdd9a53e62)
+![Vista de la aplicación](./img/vista.jpeg)
 
 
 
@@ -44,7 +44,7 @@ Una sencilla aplicación de lista de tareas (To-Do List) desarrollada con HTML, 
 
 ### Vista Principal
 
-![image](https://github.com/Nathaly-Daza/ToDoList/assets/113744119/2fde7059-bfa8-4409-b400-b55f041cbc19)
+![Vista de la aplicación](./img/completa.jpeg)
 
 
 ## Personalización
