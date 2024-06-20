@@ -65,3 +65,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
 ## Contacto
 
 Para cualquier pregunta o sugerencia, puedes contactarme a través de [ndaza@uniempresarial.edu.co](mailto:ndaza@uniempresarial.edu.co).
+
+## Visualización
+
+https://nathaly-daza.github.io/ToDoList/
